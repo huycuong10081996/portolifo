@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portolifo/static/css/main.01f2330c.chunk.css",
+    "main.js": "/portolifo/static/js/main.fa12932b.chunk.js",
+    "main.js.map": "/portolifo/static/js/main.fa12932b.chunk.js.map",
+    "runtime-main.js": "/portolifo/static/js/runtime-main.fb22b0d6.js",
+    "runtime-main.js.map": "/portolifo/static/js/runtime-main.fb22b0d6.js.map",
+    "static/js/2.ab180245.chunk.js": "/portolifo/static/js/2.ab180245.chunk.js",
+    "static/js/2.ab180245.chunk.js.map": "/portolifo/static/js/2.ab180245.chunk.js.map",
+    "index.html": "/portolifo/index.html",
+    "precache-manifest.c46eacf31dd4034a225d2055f96ccf1a.js": "/portolifo/precache-manifest.c46eacf31dd4034a225d2055f96ccf1a.js",
+    "service-worker.js": "/portolifo/service-worker.js",
+    "static/css/main.01f2330c.chunk.css.map": "/portolifo/static/css/main.01f2330c.chunk.css.map",
+    "static/media/logo.svg": "/portolifo/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb22b0d6.js",
+    "static/js/2.ab180245.chunk.js",
+    "static/css/main.01f2330c.chunk.css",
+    "static/js/main.fa12932b.chunk.js"
+  ]
+}
