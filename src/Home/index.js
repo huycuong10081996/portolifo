@@ -116,7 +116,10 @@ class Home extends PureComponent {
             <div className={styles.exp__wrapper}>
               <div data-aos="flip-left" className={styles.exp__content}>
                 <div className={styles.exp__img}>
-                  <img src="/assets/design.png" alt="" />
+                  <img
+                    src="https://huycuong10081996.github.io/portolifo/assets/design.png"
+                    alt=""
+                  />
                 </div>
                 <div className={styles.exp__content__text}>
                   <h4>UX/UI</h4>
@@ -127,7 +130,10 @@ class Home extends PureComponent {
               </div>
               <div data-aos="flip-left" className={styles.exp__content}>
                 <div className={styles.exp__img}>
-                  <img src="/assets/inspiration.png" alt="" />
+                  <img
+                    src="https://huycuong10081996.github.io/portolifo/assets/inspiration.png"
+                    alt=""
+                  />
                 </div>
                 <div className={styles.exp__content__text}>
                   <h4>Creation</h4>
@@ -137,7 +143,10 @@ class Home extends PureComponent {
               </div>
               <div data-aos="flip-left" className={styles.exp__content}>
                 <div className={styles.exp__img}>
-                  <img src="/assets/teamwork.png" alt="" />
+                  <img
+                    src="https://huycuong10081996.github.io/portolifo/assets/teamwork.png"
+                    alt=""
+                  />
                 </div>
                 <div className={styles.exp__content__text}>
                   <h4>Teamwork</h4>
