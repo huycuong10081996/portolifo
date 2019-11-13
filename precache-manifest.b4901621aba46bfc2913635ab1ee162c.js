@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2212e6af51a1ecda7eb32b715805f02f",
+    "revision": "c8a12b419790d3d7be0883673223d3b7",
     "url": "/portolifo/index.html"
   },
   {
-    "revision": "006333e21d7fbbfaffe4",
-    "url": "/portolifo/static/css/main.01f2330c.chunk.css"
+    "revision": "ced64ff898231346c9b5",
+    "url": "/portolifo/static/css/main.e3903e10.chunk.css"
   },
   {
     "revision": "49c21045aff3458f1eb2",
     "url": "/portolifo/static/js/2.ab180245.chunk.js"
   },
   {
-    "revision": "006333e21d7fbbfaffe4",
-    "url": "/portolifo/static/js/main.15a1a6fe.chunk.js"
+    "revision": "ced64ff898231346c9b5",
+    "url": "/portolifo/static/js/main.0eebf8c3.chunk.js"
   },
   {
     "revision": "2c32d1f596ce3d088f0d",
