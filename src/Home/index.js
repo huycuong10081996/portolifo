@@ -28,7 +28,7 @@ class Home extends PureComponent {
             <h1>Hello Everyone !</h1>
           </Bounce>
           <h4 className={styles.speaking}>
-            "I like something good for you and me. I aslo make everything best
+            "I like something good for you and me. I also make everything best
             for my client. "
           </h4>
           <div className={styles.name}>
@@ -54,7 +54,7 @@ class Home extends PureComponent {
               <ul className={styles.info__title}>
                 <li>
                   <p>
-                    <strong>Full Name:</strong>
+                    <strong>Name:</strong>
                   </p>
                 </li>
                 <li>
