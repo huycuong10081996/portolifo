@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/portolifo/static/css/main.e3903e10.chunk.css",
-    "main.js": "/portolifo/static/js/main.0eebf8c3.chunk.js",
-    "main.js.map": "/portolifo/static/js/main.0eebf8c3.chunk.js.map",
+    "main.css": "/portolifo/static/css/main.f2286806.chunk.css",
+    "main.js": "/portolifo/static/js/main.0c17bea9.chunk.js",
+    "main.js.map": "/portolifo/static/js/main.0c17bea9.chunk.js.map",
     "runtime-main.js": "/portolifo/static/js/runtime-main.fb22b0d6.js",
     "runtime-main.js.map": "/portolifo/static/js/runtime-main.fb22b0d6.js.map",
-    "static/js/2.ab180245.chunk.js": "/portolifo/static/js/2.ab180245.chunk.js",
-    "static/js/2.ab180245.chunk.js.map": "/portolifo/static/js/2.ab180245.chunk.js.map",
+    "static/js/2.ed6a5967.chunk.js": "/portolifo/static/js/2.ed6a5967.chunk.js",
+    "static/js/2.ed6a5967.chunk.js.map": "/portolifo/static/js/2.ed6a5967.chunk.js.map",
     "index.html": "/portolifo/index.html",
-    "precache-manifest.b4901621aba46bfc2913635ab1ee162c.js": "/portolifo/precache-manifest.b4901621aba46bfc2913635ab1ee162c.js",
+    "precache-manifest.4c274352d7d9203f080eafff63779f70.js": "/portolifo/precache-manifest.4c274352d7d9203f080eafff63779f70.js",
     "service-worker.js": "/portolifo/service-worker.js",
-    "static/css/main.e3903e10.chunk.css.map": "/portolifo/static/css/main.e3903e10.chunk.css.map",
-    "static/media/logo.svg": "/portolifo/static/media/logo.25bf045c.svg"
+    "static/css/main.f2286806.chunk.css.map": "/portolifo/static/css/main.f2286806.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.fb22b0d6.js",
-    "static/js/2.ab180245.chunk.js",
-    "static/css/main.e3903e10.chunk.css",
-    "static/js/main.0eebf8c3.chunk.js"
+    "static/js/2.ed6a5967.chunk.js",
+    "static/css/main.f2286806.chunk.css",
+    "static/js/main.0c17bea9.chunk.js"
   ]
 }
