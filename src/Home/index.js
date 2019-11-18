@@ -11,7 +11,7 @@ const Bounce = styled.div`
   font-family: "Kaushan Script", cursive;
 `;
 const Bounces = styled.div`
-  animation: 3s ${keyframes`${bounce}`} infinite;
+  animation: 5s ${keyframes`${bounce}`} infinite;
   color: white;
   text-align: center;
   font-family: "Kaushan Script", cursive;
@@ -41,14 +41,24 @@ class Home extends PureComponent {
                 src="https://cdn.vn.garenanow.com/web/fo3/fo4/home-page/images/mouse-outline.png"
                 alt=""
               />
-              <p>Scroll the mouse</p>
+              <p>
+                <a href="#aboutMe">Scroll the mouse</a>
+              </p>
             </Bounces>
           </div>
         </div>
-        <div data-aos="fade-right" className={styles.about}>
+        <div id="aboutMe" data-aos="fade-right" className={styles.about}>
           <div className={styles.about__title}>
             <h2>About Me</h2>
           </div>
+
+          <div className={styles.about__avatar}>
+            <img
+              src="https://huycuong10081996.github.io/portolifo/assets/46499158_906532309541687_735503026202083328_n.jpg"
+              alt=""
+            />
+          </div>
+
           <div className={styles.about__content}>
             <div className={styles.about__content__left}>
               <ul className={styles.info__title}>
@@ -100,8 +110,8 @@ class Home extends PureComponent {
                   Currently, I have studied Nong Lam University (2016-2020),I
                   have finished Frontend Development Course in Nordic Coder and
                   had over 2 months of working experience in ReactJs. But now I
-                  want to continue develop the user interface (FrontEnd) and and
-                  do it well
+                  want to continue develop the user interface (FrontEnd) and do
+                  it well
                 </p>
                 <p></p>
               </div>
@@ -178,6 +188,13 @@ class Home extends PureComponent {
             </div>
           </div>
         </div>
+
+        {/* <div className={styles.project__wrapper}>
+          <div className="container">
+            <h2>Technology</h2>
+          </div>
+        </div> */}
+
         <div className={styles.contact__wrapper}>
           <div class="container contact">
             <div class="row">
